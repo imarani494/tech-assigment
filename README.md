@@ -85,7 +85,7 @@ user-management-app/
 
 
 
-![alt text](Screenshot(1484).png)
+
 
 
 
